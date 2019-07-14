@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class SolveMeFirst {
 
     static int solveMeFirst(int a, int b) {
-        // Hint: Type return a+b; below
+        // return summation
         return a + b;
     }
 
